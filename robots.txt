@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-o4s52i.salamcuanwin.sbs/sitemap.xml
